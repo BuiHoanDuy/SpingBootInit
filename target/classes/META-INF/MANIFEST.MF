@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Aus
+Build-Jdk: 22.0.1
+Implementation-Title: spring-boot-non-jwt
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.hoanduy
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-non-jwt
+Created-By: Maven Integration for Eclipse
+
